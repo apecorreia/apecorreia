@@ -24,7 +24,7 @@
 
 
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ant%C3%B3nio-correia-4013242b7/](https://www.linkedin.com/in/ant%C3%B3nio-correia-4013242b7/)
+- 📄 Know about my experiences [Linkedin Profile/](https://www.linkedin.com/in/ant%C3%B3nio-correia-4013242b7/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
