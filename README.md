@@ -4,14 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apecorreia&label=Profile%20views&color=0e75b6&style=flat" alt="apecorreia" /> </p>
 
 ### 🌐 Drone Distributor Website  
-- [BioFly](www.biofly.pt)
+- [BioFly](https://www.biofly.pt)
 - Built a complete website for a drone distributor.  
 - **Front-end:** JavaScript, React, HTML5, CSS3  
 - **Back-end:** Python  
 - Fully deployed and available online for public access.  
 
 ### 🕸️ ProductScraper  
-- [ProductScraper](apecorreia/ProductScraper)
+- [ProductScraper](https://github.com/apecorreia/ProductScraper.git)
 - Python project using **Scrapy** to scrape products from **3 Portuguese online stores**.  
 - Stores all collected data into a **SQL database**.  
 - Includes **data analysis features** that allow users to compare and understand product price trends.  
