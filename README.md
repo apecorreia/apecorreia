@@ -11,6 +11,7 @@
 - Fully deployed and available online for public access.  
 
 ### 🕸️ ProductScraper  
+- [ProductScraper](apecorreia/ProductScraper)
 - Python project using **Scrapy** to scrape products from **3 Portuguese online stores**.  
 - Stores all collected data into a **SQL database**.  
 - Includes **data analysis features** that allow users to compare and understand product price trends.  
